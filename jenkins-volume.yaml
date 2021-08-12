@@ -11,4 +11,4 @@ spec:
     storage: 2Gi
   persistentVolumeReclaimPolicy: Delete
   hostPath:
-    path: /opt/temp_files/jenkins_minikube_setup/data/jenkins-volume/ 
+    path: /data/jenkins-volume/ 
